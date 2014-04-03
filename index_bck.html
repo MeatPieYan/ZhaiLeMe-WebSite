@@ -25,43 +25,36 @@
 </header>
 
 <!-- index part -->
-<section id="intro" class="story" data-speed="8" data-type="background">
-    <div id="logo-div" data-type="sprite" data-offsetY="100" data-Xposition="50%" data-speed="-2"></div>
-    <article>
-        <p>聚会，Party，运动，出游 ——— 各种组局</p>
-    </article>
+<section id="intro">
+    <div id="logo"><img src="images/Logo.png"></div>
+    <div id="title"><h1>又宅了么，去局吧！</h1></div>
+
 </section>
 
 <!-- launch an activity -->
-<section id="launch" class="story" data-speed="4" data-type="background" data-offsetY="250">
-    <article>
-        <p>发起活动</p>
-    </article>
+<section id="launch">
+
+
 </section>
 
 <!-- join an activity -->
-<section id="join" class="story" data-speed="6" data-type="background">
-    <article>
-        <p>参与活动</p>
-    </article>
-</section>
+<section id="join"></section>
 
 <!-- about -->
-<section id="about" class="story" data-speed="6" data-type="background" data-offsetY="400"></section>
+<section id="about"></section>
 
 <!-- footer -->
 <footer></footer>
 
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.easing.min.js"></script>
-<script src="js/Parallax.js"></script>
 <script src="js/main.js"></script>
 <script>
     //alert($("#intro").height() - $("body").scrollTop() - $("#navigator").height());
     //window.addEventListener("scroll",test);
-    //function test(){
-    //    alert($("body").scrollTop());
-    //}
+    function test(){
+        alert($("body").scrollTop());
+    }
 
 </script>
 </body>

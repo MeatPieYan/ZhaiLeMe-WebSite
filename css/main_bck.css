@@ -1,0 +1,128 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#navigator {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 0px 0px 25px black;
+}
+
+#navigator ul {
+    position: relative;
+}
+
+#navigator ul li {
+    display: block;
+    float: left;
+    margin: 0px 1px;
+    border: solid 0px white;
+    padding: 0px 5px;
+    line-height: 1.5;
+
+}
+
+#navigator ul li a {
+    text-decoration:none;
+    display: block;
+    white-space: nowrap;
+    position: relative;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0px 0px 15px #DDDDDD;
+
+}
+
+#navigator ul li a:hover {
+    color: #AAAAAA;
+    text-decoration: none;
+}
+
+#intro {
+    background-color: white;
+    height: 100%;
+    text-align: center;
+}
+
+#intro div{
+    position: absolute;
+}
+
+#logo {
+    left: 20%;
+    top: 30%;
+}
+
+#title {
+    left: 40%;
+    top: 42%;
+}
+#title h1 {
+    font-size: 40px;
+}
+
+#launch {
+    background-color: #33CC66;
+    height: 100%;
+}
+
+
+#join {
+    background-color: #666666;
+    height: 100%;
+}
+
+#about {
+    background-color: gray;
+    height: 100%;
+}
+
+
+.hidden {
+    display: none;
+}
+
+.topFixed {
+    position: fixed;
+    top: 0px;
+}
+
+.bottomAbsolute {
+    position: absolute;
+    bottom: 0px;
+}
+
+.arrowDiv {
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    border: 0px;
+}
+
+@-webkit-keyframes arrow {
+    0% {
+        margin-top: -50px; }
+
+    50% {
+        margin-top: -30px; }
+
+    100% {
+        margin-top: -50px; }
+}
+
+.arrow-new {
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    margin-top: -60px;
+    -webkit-animation: 'arrow' 3s infinite;
+    border: 13px solid transparent;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top-color: #000;
+    width: 0;
+    height: 0;
+}
