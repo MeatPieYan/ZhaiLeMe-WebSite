@@ -1,0 +1,164 @@
+{
+    "id": "391",
+    "name": "jade",
+    "brands": [{
+        "id": "2358",
+        "name": "Cirque le Soir",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/298/brands/circle.jpg?itok=da5apF_g",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3215942074"
+            }
+        },
+        "user_can_make_posts": true,
+        "post_handling": "moderated"
+    }, {
+        "id": "6512",
+        "name": "FIVB",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/356/brands/fivb.jpg?itok=EvJGIIRm",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3819420036"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/FIVBChina"
+            }
+        },
+        "user_can_make_posts": true,
+        "post_handling": "moderated"
+    }, {
+        "id": "526",
+        "name": "Thats A Fact",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/1/brands/grampa1.jpg?itok=WhTWTyIp",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3177843734"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/r3versed"
+            }
+        },
+        "user_can_make_posts": true,
+        "post_handling": "moderated"
+    }, {
+        "id": "1047",
+        "name": "Lucas Leiva",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/221/brands/lucasleiva1.jpg?itok=Pr4lpnRF",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3172373504"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "unmoderated"
+    }, {
+        "id": "1140",
+        "name": "AMG Academy",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/228/brands/1.jpg?itok=M08ttj_H",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/2304288237"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "moderated"
+    }, {
+        "id": "5699",
+        "name": "LLBean",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/362/brands/llbean.jpg?itok=Sgnoo5OZ",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/1763936500"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/llbeanchina"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "moderated"
+    }, {
+        "id": "2058",
+        "name": "Cirque du Soleil",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/286/brands/circ.jpg?itok=UxPXacY5",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/2300417341"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "moderated"
+    }, {
+        "id": "1637",
+        "name": "Tottenham F.C",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/253/brands/hotspurs.jpg?itok=SJnNyjoS",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3065243713"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/tottenhamhotspur"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "unmoderated"
+    }, {
+        "id": "1638",
+        "name": "Liverpool F.C.",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/252/brands/livapool.jpg?itok=lT5wGw6I",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/2218894100"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/liverpoolfc"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "unmoderated"
+    }, {
+        "id": "1729",
+        "name": "KAWO Official ",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/255/brands/KAWO_blog_icon.png?itok=dlrRZ8MD",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3515633867"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/kawosocial"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "moderated"
+    }, {
+        "id": "2061",
+        "name": "Go USA",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/289/brands/5.jpg?itok=ECMIFUdM",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/3606551013"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/DiscoverGoUSA"
+            },
+            "renren": {
+                "url": "http://www.renren.com/547933824"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "unmoderated"
+    }, {
+        "id": "7952",
+        "name": "GMAT",
+        "picture": "http://beta.kawo.com/drupal/sites/default/files/styles/32x32thumb/public/pictures/386/brands/gmac_logo.png?itok=7op1BRNG",
+        "accounts": {
+            "sweibo": {
+                "url": "http://www.weibo.com/u/2654655213"
+            },
+            "tweibo": {
+                "url": "http://t.qq.com/weiboGMAT"
+            }
+        },
+        "user_can_make_posts": false,
+        "post_handling": "unmoderated"
+    }]
+}
