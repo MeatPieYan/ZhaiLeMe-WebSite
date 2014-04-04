@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="419b0d01-f1c6-4e9d-b81d-d9eb1deaa2af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main_bck.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Logo-bkg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PSD/Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PSD/Logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_bck.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/Parallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_favicon.ico" afterPath="$PROJECT_DIR$/app/_favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.css" afterPath="$PROJECT_DIR$/app/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ZhaiLeMe WebSite.iws" />
@@ -43,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="12" selection-start="1118" selection-end="1118" vertical-scroll-proportion="-0.0" vertical-offset="540" max-vertical-offset="1095">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Parallax.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/Parallax.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,19 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="405">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="14" selection-start="264" selection-end="265" vertical-scroll-proportion="0.41125542" vertical-offset="0" max-vertical-offset="2175">
+            <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.15151516" vertical-offset="0" max-vertical-offset="693">
               <folding />
             </state>
           </provider>
@@ -137,6 +105,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,9 +124,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhaiLeMe WebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhaiLeMe WebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhaiLeMe WebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhaiLeMe WebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhaiLeMe WebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhaiLeMe WebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +203,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -195,23 +221,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -289,9 +307,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/Parallax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="12" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
+        <state line="15" column="21" selection-start="482" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
@@ -310,25 +335,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="20" selection-start="1737" selection-end="1737" vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="2175">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/Javascript_Style_Guide.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2925">
-          <folding />
-        </state>
+        <state line="8" column="13" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2925" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/api/user.json">
@@ -340,23 +354,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/main_bck.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="4" selection-start="613" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1995">
-          <folding />
-        </state>
+        <state line="39" column="4" selection-start="613" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1995" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/main_bck.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="4" selection-start="613" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="25" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="39" column="4" selection-start="613" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/images/PSD/Logo.psd">
@@ -381,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.15151516" vertical-offset="0" max-vertical-offset="693">
           <folding />
         </state>
       </provider>
@@ -393,25 +396,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="12" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/css/main_bck.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="4" selection-start="613" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="39" column="4" selection-start="613" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/Javascript_Style_Guide.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="277" selection-end="277" vertical-scroll-proportion="-1.3455882" vertical-offset="1035" max-vertical-offset="2925">
-          <folding />
-        </state>
+        <state line="8" column="13" selection-start="277" selection-end="277" vertical-scroll-proportion="-1.3455882" vertical-offset="1035" max-vertical-offset="2925" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/api/user.json">
@@ -423,16 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="34" selection-start="850" selection-end="850" vertical-scroll-proportion="0.5030488" vertical-offset="0" max-vertical-offset="656">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="14" selection-start="264" selection-end="265" vertical-scroll-proportion="0.41125542" vertical-offset="0" max-vertical-offset="2175">
-          <folding />
-        </state>
+        <state line="22" column="34" selection-start="850" selection-end="850" vertical-scroll-proportion="0.5030488" vertical-offset="0" max-vertical-offset="656" />
       </provider>
     </entry>
   </component>
