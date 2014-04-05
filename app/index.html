@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta content="width=device-width, initial-scale=1.0" charset="UTF-8">
+    <title>宅了么</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+<header>
+    <h1 class="hidden">聚会，Party，运动，出游 ——— 各种组局</h1>
+    <div class="arrowDiv"><a href="#launch" class="arrow-new">&nbsp;</a></div>
+    <!-- navigator-->
+    <nav id="navigator" class="bottomAbsolute">
+
+        <ul>
+            <li><a href="#intro">首页</a></li>
+            <li><a href="#launch">发起活动</a></li>
+            <li><a href="#join">参与活动</a></li>
+            <li><a href="#about">关于</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+<!-- index part -->
+<section id="intro" class="story" data-speed="8" data-type="background">
+    <div id="logo-div" data-type="sprite" data-offsetY="100" data-Xposition="50%" data-speed="-2"></div>
+    <article>
+        <p>聚会，Party，运动，出游 ——— 各种组局</p>
+    </article>
+</section>
+
+<!-- launch an activity -->
+<section id="launch" class="story" data-speed="4" data-type="background" data-offsetY="250">
+    <article>
+        <p>发起活动</p>
+    </article>
+</section>
+
+<!-- join an activity -->
+<section id="join" class="story" data-speed="6" data-type="background">
+    <article>
+        <p>参与活动</p>
+    </article>
+</section>
+
+<!-- about -->
+<section id="about" class="story" data-speed="6" data-type="background" data-offsetY="400"></section>
+
+<!-- footer -->
+<footer></footer>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/Parallax.js"></script>
+<script src="js/main.js"></script>
+<script>
+    //alert($("#intro").height() - $("body").scrollTop() - $("#navigator").height());
+    //window.addEventListener("scroll",test);
+    //function test(){
+    //    alert($("body").scrollTop());
+    //}
+
+</script>
+</body>
+</html>
